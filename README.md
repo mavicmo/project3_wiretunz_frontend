@@ -5,6 +5,7 @@ WireTunz is a Spotify inspired app, targeted users are music lovers.
 # Wire Frame
 
 https://i.imgur.com/SvxLDKv.png
+https://i.imgur.com/aCprj6P.png
 
 ## Technical Requirements
 
